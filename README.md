@@ -25,7 +25,6 @@ Tools:
 
 Vizualization methods used with Matplotlib and Seaborn:
 -Scatterplot
-
 -Lineplot(Conley Deleon)
 
 ## Results
