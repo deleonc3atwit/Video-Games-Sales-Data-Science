@@ -11,6 +11,10 @@ Given my knowledge and experience with this market as a gamer I hypothisized tha
 
 
 ## Selection of Data
+We source our dataset from a website called Kaggle that hosts various datasets ranging across various topics. Our data set has various columns  of data such as name, platform, year of release, genre, publisher, sales for various regions, critics score, number of critics, users score, number of users, developer, and maturity rating. The data most relevant to us as prospective game developers are the global sales, publisher, genre, and year of release.
+
+Here is a preview of our data(year of release not displayed for readability)
+![image](https://user-images.githubusercontent.com/59743835/206031469-b411eb90-57df-4da3-a99a-4c1b4ebc2615.png)
 
  
 
