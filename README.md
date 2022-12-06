@@ -24,8 +24,8 @@ Tools:
 - Pycharm  as IDE
 
 Vizualization methods used with Matplotlib and Seaborn:
--Scatterplot
--Lineplot(Conley Deleon)
+- Scatterplot
+- Lineplot(Conley Deleon)
 
 ## Results
 ![image](https://user-images.githubusercontent.com/59743835/206031165-09669deb-0476-4c5b-99a8-477fefcc57cb.png)
