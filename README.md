@@ -1,1 +1,25 @@
-# Video-Games-Sales-Data-Science
+# Video Game Sales Data Science Project 
+
+
+## Introduction
+
+
+## Selection of Data
+
+ 
+
+## Methods
+
+
+
+## Results
+
+
+## Discussion
+
+
+## Summary
+
+
+
+## References
