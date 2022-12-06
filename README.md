@@ -32,9 +32,10 @@ Vizualization methods used with Matplotlib and Seaborn:
 (Conley Deleon)
 ![image](https://user-images.githubusercontent.com/59743835/206031219-8bb20057-4e2e-49a3-b666-56f1fc47bbdf.png)
 ![image](https://user-images.githubusercontent.com/59743835/206031246-a3cf184e-8ba6-4ad7-bd88-dda1255f36ce.png)
-(Conley Deleon)
 ![image](https://user-images.githubusercontent.com/59743835/206031278-63349592-52e3-4d63-8821-461657388544.png)
+(Conley Deleon)
 ![image](https://user-images.githubusercontent.com/59743835/206031316-0e189724-446e-41d8-a0cd-0a85b5f20121.png)
+(Conley Deleon)
 ![image](https://user-images.githubusercontent.com/59743835/206031336-64884688-88d3-4738-834f-fcb23580584a.png)
 
 
