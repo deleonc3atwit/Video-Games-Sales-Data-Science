@@ -63,10 +63,11 @@ This visualizations have shown us how the best selling genre of video games is t
 
 
 ## Discussion
-
-
-## Summary
+Our results imply that as game developers we should make an action game that is published by Ubisoft for the Playstation 4, Playstation 3, Xbox 360, and Xbox one. These factors should give our game a decent shot at being financially successful in the current video game market, given we make a game that is actually fun. These results are in line with research we have done, according to business insider as of may 2016 Playstation 4 was the highest selling console. Also Statista did research in 2018 on video games sales by genre and the highest selling genre was action followed by shooters. Given more data and time we could there is much more we could discover about video games sales. If we had data on factors such as the game's graphical budget, multiplayer capabilities, or price we could use this data to see what effect it had on sales. There is also an emerging trend of free to play video games with built in micro transactions such as power boosts, in game cosmetics, and in game currencies that could be researched to see how this monetization models factor into a video games financial success. 
 
 
 
 ## References
+https://www.businessinsider.com/playstation-4-sales-2016-5
+https://www.statista.com/statistics/189592/breakdown-of-us-video-game-sales-2009-by-genre/
+https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings?resource=download
