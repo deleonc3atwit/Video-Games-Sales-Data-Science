@@ -69,5 +69,7 @@ Our results imply that as game developers we should make an action game that is 
 
 ## References
 https://www.businessinsider.com/playstation-4-sales-2016-5
+
 https://www.statista.com/statistics/189592/breakdown-of-us-video-game-sales-2009-by-genre/
+
 https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings?resource=download
